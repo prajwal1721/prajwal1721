@@ -4,7 +4,7 @@
 **prajwal1721/prajwal1721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <h2>नमस्ते (Namaste)🙏🏻, I'm Prajwal Shah! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://images.unsplash.com/photo-1595683363301-1e94594a550d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80" width="180">
+<!--<img align='right' src="https://images.unsplash.com/photo-1595683363301-1e94594a550d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80" width="180"> -->
 <p><em>Studying at <a href="http://www.msrit.edu">Ramaiah Institue of Technology</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
