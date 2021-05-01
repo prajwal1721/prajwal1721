@@ -19,15 +19,15 @@
 
 <!--[![Prajwal's github stats](https://github-readme-stats.vercel.app/api?username=prajwal1721&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)-->
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal1721&theme=blue-green)
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<!--![1](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal1721&theme=blue-green)-->
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
 
 
 ```javascript
 const prajwal = {
     pronouns: "He" | "Him",
-    code: ["Javascript","C/C++", "Java", "python", "mySQL"],
+    code: ["C/C++", "Java", "Javascript", "mySQL"],
     askMeAbout: ["Sports programming", "tech", "development"],
     technologies: {
         frontEnd: {
